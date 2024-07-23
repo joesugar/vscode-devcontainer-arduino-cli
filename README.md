@@ -1,2 +1,2 @@
-# vscode-devcontainer-nanocli
-VSCode development container for the Arduino using nano-cli
+# vscode-devcontainer-arduino-cli
+VSCode development container for the Arduino using arduino-cli
